@@ -1,0 +1,21 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="app.spec.js" type="JavaScript" />
+      <mapping pattern="holodilnik" type="JavaScript" />
+      <mapping pattern="ingredients" type="JavaScript" />
+      <mapping pattern="xxx" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="AppHeader.tsx" type="PLAIN_TEXT" />
+      <mapping pattern="blsabdflbklasjdhflalskdf" type="PLAIN_TEXT" />
+      <mapping pattern="paidSubscription" type="TypeScript" />
+      <mapping pattern="SignIn" type="TypeScript JSX" />
+      <mapping pattern="SignUp" type="TypeScript JSX" />
+      <mapping ext="component" type="TypeScript JSX" />
+      <removed_mapping pattern=".idea" approved="true" type="GitIgnore file" />
+    </extensionMap>
+  </component>
+</application>
