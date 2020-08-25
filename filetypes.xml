@@ -6,6 +6,7 @@
       <mapping pattern="app.spec.js" type="JavaScript" />
       <mapping pattern="holodilnik" type="JavaScript" />
       <mapping pattern="ingredients" type="JavaScript" />
+      <mapping pattern="console" type="PHP" />
       <mapping pattern="xxx" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
