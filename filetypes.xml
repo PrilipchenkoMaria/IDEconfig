@@ -11,6 +11,7 @@
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="webpack" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="_landing-team-page.scss" type="PLAIN_TEXT" />
       <mapping pattern="AppHeader.tsx" type="PLAIN_TEXT" />
       <mapping pattern="blsabdflbklasjdhflalskdf" type="PLAIN_TEXT" />
       <mapping ext="bzz" type="PLAIN_TEXT" />
