@@ -14,6 +14,7 @@
       <mapping pattern="_landing-team-page.scss" type="PLAIN_TEXT" />
       <mapping pattern="AppHeader.tsx" type="PLAIN_TEXT" />
       <mapping pattern="blsabdflbklasjdhflalskdf" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="bzz" type="PLAIN_TEXT" />
       <mapping pattern="paidSubscription" type="TypeScript" />
       <mapping pattern="SignIn" type="TypeScript JSX" />
