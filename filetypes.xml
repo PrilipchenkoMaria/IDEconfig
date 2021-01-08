@@ -16,6 +16,7 @@
       <mapping pattern="blsabdflbklasjdhflalskdf" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="bzz" type="PLAIN_TEXT" />
+      <mapping pattern="header_v1_mobile-menu" type="Twig" />
       <mapping pattern="paidSubscription" type="TypeScript" />
       <mapping pattern="SignIn" type="TypeScript JSX" />
       <mapping pattern="SignUp" type="TypeScript JSX" />
