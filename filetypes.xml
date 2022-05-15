@@ -1,28 +1,29 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="app.spec.js" type="JavaScript" />
       <mapping pattern="holodilnik" type="JavaScript" />
       <mapping pattern="ingredients" type="JavaScript" />
-      <mapping pattern="console" type="PHP" />
-      <mapping pattern="xxx" type="PLAIN_TEXT" />
+      <mapping pattern="app.spec.js" type="JavaScript" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="webpack" type="PLAIN_TEXT" />
+      <mapping pattern="blsabdflbklasjdhflalskdf" type="PLAIN_TEXT" />
+      <mapping pattern=".tsconfig" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="_landing-team-page.scss" type="PLAIN_TEXT" />
-      <mapping pattern="webpack" type="PLAIN_TEXT" />
-      <mapping pattern=".tsconfig" type="PLAIN_TEXT" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="AppHeader.tsx" type="PLAIN_TEXT" />
-      <mapping pattern="blsabdflbklasjdhflalskdf" type="PLAIN_TEXT" />
-      <mapping ext="epub" type="PLAIN_TEXT" />
+      <mapping pattern="xxx" type="PLAIN_TEXT" />
       <mapping ext="bzz" type="PLAIN_TEXT" />
+      <mapping ext="epub" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="MemoryTypesEnum" type="TypeScript" />
       <mapping pattern="paidSubscription" type="TypeScript" />
-      <mapping pattern="SignIn" type="TypeScript JSX" />
       <mapping pattern="SignUp" type="TypeScript JSX" />
+      <mapping pattern="SignIn" type="TypeScript JSX" />
+      <removed_mapping ext="md" approved="true" type="XML" />
+      <removed_mapping ext="permissionset" approved="true" type="XML" />
+      <removed_mapping ext="profile" approved="true" type="XML" />
       <removed_mapping pattern=".idea" approved="true" type="GitIgnore file" />
+      <mapping pattern="console" type="PHP" />
       <mapping pattern="header_v1_mobile-menu" type="Twig" />
     </extensionMap>
   </component>

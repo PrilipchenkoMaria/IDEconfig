@@ -1,4 +1,4 @@
-<filetype binary="false" description="idea" name="idea">
+<filetype binary="false" default_extension="idea/" description="idea" name="idea">
   <highlighting>
     <options>
       <option name="LINE_COMMENT" value="" />
