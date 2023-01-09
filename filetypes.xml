@@ -5,11 +5,11 @@
       <mapping pattern="ingredients" type="JavaScript" />
       <mapping pattern="app.spec.js" type="JavaScript" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="webpack" type="PLAIN_TEXT" />
       <mapping pattern="blsabdflbklasjdhflalskdf" type="PLAIN_TEXT" />
-      <mapping pattern=".tsconfig" type="PLAIN_TEXT" />
-      <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="_landing-team-page.scss" type="PLAIN_TEXT" />
+      <mapping pattern=".tsconfig" type="PLAIN_TEXT" />
       <mapping pattern="AppHeader.tsx" type="PLAIN_TEXT" />
       <mapping pattern="xxx" type="PLAIN_TEXT" />
       <mapping ext="bzz" type="PLAIN_TEXT" />
